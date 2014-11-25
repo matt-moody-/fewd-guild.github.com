@@ -1,46 +1,30 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: FEWD Guild
+tagline: making the world a better place!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+# Meetings
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+We will meet every Friday from 3pm - 4:30pm in Aristotle. The majority of meetings will follow our predetermined agenda. If you are interested in giving a lightening talk, a conference recap or a longer presentation please [let me know](mailto:aj.webb@vivint.com).
 
-## Update Author Attributes
+## Agenda
+3:00 - Welcome to Guild Meeting & Announcements  
+3:10 - Lightning Talks || Workshop Q&A || Conference Recaps  
+3:30 - Split up and work on Projects  
+3:55 - Final announcements  
+4:00 - Continue working / hangout  
+4:30 - Wrap-up and leave  
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Lightening Talks
+The idea of lightning talks is to give several people the chance to spend 5 to 15 minutes talking about something they want to share. Examples of lightning talk topics:
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* I'm working on this 
+* I love this 
+* I want to know more about this 
+* What do you guys think about this? 
+* I need some help and advice
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+## Suggestions and Forums
+If you would like to; hear someone speak on a certain subject, suggest a project that we work on as a guild or even make a changes to the guild in someway. Please [submit an issue](https://github.com/FEWD-Guild/fewd-guild.github.com/issues) and tag it appropriately.
