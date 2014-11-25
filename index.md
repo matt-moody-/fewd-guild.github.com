@@ -17,7 +17,7 @@ We will meet every Friday from 3pm - 4:30pm in Aristotle. The majority of meetin
 4:00 - Continue working / hangout  
 4:30 - Wrap-up and leave  
 
-## Lightening Talks
+## Lightning Talks
 The idea of lightning talks is to give several people the chance to spend 5 to 15 minutes talking about something they want to share. Examples of lightning talk topics:
 
 * I'm working on this 
