@@ -1,0 +1,29 @@
+.faq {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 1rem;
+}
+
+	.faq .well {
+		margin-bottom: 1rem;
+	}
+
+	.faq .faq-question {
+		color: #B61B24;
+		cursor: pointer;
+	}
+
+	.faq .faq-question:hover {
+		color: #F22430;
+	}
+
+		.faq.open .faq-question .glyphicon-chevron-right {
+			transform: rotateZ(90deg);
+		}
+
+	.faq .faq-answer {
+		display: none;
+	}
+
+	.faq.open .faq-answer {
+		display: block;
+	}

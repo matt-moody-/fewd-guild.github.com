@@ -5,7 +5,7 @@ tagline: making the world a better place!
 ---
 {% include JB/setup %}
 
-# Meetings
+## Meetings
 
 We will meet every Friday from 3pm - 4:30pm in Aristotle. The majority of meetings will follow our predetermined agenda. If you are interested in giving a lightening talk, a conference recap or a longer presentation please [let me know](mailto:aj.webb@vivint.com).
 
@@ -28,3 +28,6 @@ The idea of lightning talks is to give several people the chance to spend 5 to 1
 
 ## Suggestions and Forums
 If you would like to; hear someone speak on a certain subject, suggest a project that we work on as a guild or even make a changes to the guild in someway. Please [submit an issue](https://github.com/FEWD-Guild/fewd-guild.github.com/issues) and tag it appropriately.
+
+## Contributing
+Read the [instructions on contributing](/contributing).
